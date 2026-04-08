@@ -156,6 +156,33 @@ The home screen shows real-time stats:
 
 ---
 
+## 🔑 Access & License Keys
+
+WatcherPro requires a license key to activate. Keys are **free to claim** at the portal below.
+
+### 🌐 Key Portal
+[![Get Keys](https://img.shields.io/badge/Claim%20Your%20Key-watcher--pro--keys.vercel.app-brightgreen?style=for-the-badge)](https://watcher-pro-keys.vercel.app)
+
+### 📋 How To Activate
+
+1. Visit watcher-pro-keys.vercel.app
+2. Claim your key → copy USER_ID + LICENSE_KEY
+3. Open WatcherPro → Access Portal
+4. Enter USER_ID and LICENSE_KEY
+5. Tap [ AUTHENTICATE ]
+6. You're in ✅
+
+### 💎 Key Tiers
+
+| Tier | Scans | Duration | Price |
+|------|-------|----------|-------|
+| **FREE** | 5 scans | 24 hours | Free |
+| **PRO** | 500 scans | 30 minutes | Freemium |
+| **LIFETIME** | Unlimited ∞ | Forever | Freemium |
+
+> 💡 Keys can be extended from inside the app once activated.
+> Need help? Join our WhatsApp Community !
+
 ## ⚠️ Legal Disclaimer
 
 > This tool is developed for **educational purposes and authorized security research only**.
