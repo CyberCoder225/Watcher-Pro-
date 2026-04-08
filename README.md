@@ -1,4 +1,4 @@
-# 🛡️ WATCHER PRO — Network Security Suite
+# ◈WATCHER PRO +
 
 <p align="center">
   <img src="screenshots/main.jpg" width="250" alt="WatcherPro Home"/>
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"/>
 </p>
 
-> **WatcherPro** is a professional-grade Android network security suite built for security researchers, penetration testers, and network engineers. Packed with advanced TLS/SNI analysis, host discovery, DNS intelligence, and ECH detection tools — all in a clean, dark cyber UI.
+> **WatcherPro** is a professional-grade Android network security suite built for security researchers, penetration testers, and network engineers. Packed with advanced TLS/SNI analysis, host discovery, DNS intelligence, and ECH detection tools — all in a clean, dark cyber UI.Made in Zimbabwe🇿🇼 by a teen called Cyber Coder
 
 ---
 
