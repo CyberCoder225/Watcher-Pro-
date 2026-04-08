@@ -160,6 +160,10 @@ The home screen shows real-time stats:
 
 WatcherPro requires a license key to activate. Keys are **free to claim** at the portal below.
 
+## 👨‍🦲 New Users
+
+New users no need to claim keys. Just launch it and you will be auto registered with a key for 24 hours then after that, start claiming and extending your account !
+
 ### 🌐 Key Portal
 [![Get Keys](https://img.shields.io/badge/Claim%20Your%20Key-watcher--pro--keys.vercel.app-brightgreen?style=for-the-badge)](https://watcher-pro-keys.vercel.app)
 
