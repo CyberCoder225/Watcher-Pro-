@@ -1,0 +1,23 @@
+# Android
+*.apk
+*.aab
+*.dex
+*.class
+
+# Sketchware
+*.swb.bak
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+*.iml
+.gradle/
+build/
+
+# Logs
+*.log
