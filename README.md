@@ -1,8 +1,7 @@
 # 🛡️ WATCHER PRO — Network Security Suite
 
 <p align="center">
-  <img src="screenshots/home.jpg" width="250" alt="WatcherPro Home"/>
-  <img src="screenshots/scanner.jpg" width="250" alt="WatcherPro Scanner"/>
+  <img src="screenshots/main.jpg" width="250" alt="WatcherPro Home"/>
 </p>
 
 <p align="center">
