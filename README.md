@@ -19,7 +19,7 @@
 
 | Home | Scanner | Advanced |
 |------|---------|----------|
-| ![Home](screenshots/home.jpg) | ![Scanner](screenshots/scanner.jpg) | Coming soon |
+| ![Home](screenshots/home.jpg) | ![Scanner](screenshots/scanner.jpg)
 
 ---
 
@@ -167,7 +167,7 @@ The home screen shows real-time stats:
 
 ## 👨‍💻 Developer
 
-**CYBER DEVS**
+**CYBER CODER**
 - Built with Java
 - Android Network Security Research
 - Zimbabwe 🇿🇼
