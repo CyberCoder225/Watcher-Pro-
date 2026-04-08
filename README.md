@@ -17,8 +17,8 @@
 
 ## 📱 Screenshots
 
-| Home | Scanner | Advanced |
-|------|---------|----------|
+| Home | Scanner | 
+|------|---------|
 | ![Home](screenshots/home.jpg) | ![Scanner](screenshots/scanner.jpg)
 
 ---
@@ -173,6 +173,16 @@ The home screen shows real-time stats:
 - Zimbabwe 🇿🇼
 
 ---
+
+## 💬 Community
+
+Join the WatcherPro community on WhatsApp — share findings, get updates, and connect with other security researchers.
+
+[
+
+![WhatsApp](https://img.shields.io/badge/Join%20Group-WhatsApp-25D366?style=for-the-badge&logo=whatsapp)
+
+](https://chat.whatsapp.com/H6VEEhUl6uXGjP2XR0R8l4?mode=gi_t)
 
 ## 📄 License
 
